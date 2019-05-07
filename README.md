@@ -13,7 +13,7 @@ eg: https://www.dlsite.com/maniax/fsr/=/language/jp/sex_category%5B0%5D/male/key
 
 3. Now run all the code once  
 
-4. Then, type: "get_info('paste_the_base_url_here', and_#pages_here)"  
+4. Then, in the command line type: "get_info('paste_the_base_url_here', and_#pages_here)"  
 
 5. A CSV file will be generated  
 
