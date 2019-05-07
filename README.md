@@ -2,7 +2,7 @@
 
 
 ## Purpose of the program:
-Store product infos from a keyword search to (.csv)
+Store product infos (category/release date//maker/title/url) from a keyword search to (.csv)
 
 ## How To Use This Program:
 1. Get the base url by DLsite keyword search (showtype must be 1), with just the number of page left  
