@@ -5,7 +5,7 @@
 Store product infos (category/release date/maker/title/url) from a keyword search to (.csv)
 
 ## How To Use This Program:
-1. Get the base url by DLsite keyword search (showtype must be 1), with just the number of page left  
+1. Get the base url from DLsite keyword search (showtype must be 1), with just the number of page left  
 
 eg: https://www.dlsite.com/maniax/fsr/=/language/jp/sex_category%5B0%5D/male/keyword/陽向葵ゅか/order%5B0%5D/release_d/per_page/30/show_type/1/page/  
 
