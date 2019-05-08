@@ -5,6 +5,7 @@
 #and all files are properly named. eg: "[Date][RJXXXXXX][maker] title"
 #By using DLsite_Info_Scraper.R to get all product info of that series,
 #you can now find out what games/manga you've missed from the list.
+#The program will return a list of product IDs in a csv file.
 #You MUST use the csv generated from "DLsite_Info_Scraper.R"
 #to run this program!!!
 ##########################################################################
