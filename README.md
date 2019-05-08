@@ -1,10 +1,11 @@
-# DLsite-Info-Scraper
+# DLsite-Tools
 
 
-## Purpose of the program:
+## DLsite_Info_Scraper
+Purpose of the program: 
 Store product infos (category/release date/maker/title/url) from a keyword search to (.csv)
 
-## How To Use This Program:
+How To Use This Program:
 1. Get the base url from DLsite keyword search (showtype must be 1), with just the number of page left  
 
 eg: https://www.dlsite.com/maniax/fsr/=/language/jp/sex_category%5B0%5D/male/keyword/陽向葵ゅか/order%5B0%5D/release_d/per_page/30/show_type/1/page/  
@@ -19,3 +20,13 @@ eg: https://www.dlsite.com/maniax/fsr/=/language/jp/sex_category%5B0%5D/male/key
 
 PS: One issue of my code is it could not handle UNICODE properly. Let me know if you have any ideas.
 
+
+## DLsite_match
+
+Purpose of this function:
+To look up the products missed from the full product list.  
+You MUST use the csv generated from "DLsite_Info_Scraper.R" to run this program!!!  
+
+Assume you downloaded some games/manga of a certain series from DLsite and all files are properly named.  
+eg: "[Date][RJXXXXXX][maker] title"  
+By using DLsite_Info_Scraper.R to get all product info of that series, you can now find out what games/manga you've missed from the list.
