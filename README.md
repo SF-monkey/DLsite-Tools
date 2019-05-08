@@ -25,6 +25,6 @@ PS: One issue of my code is it could not handle UNICODE properly. Let me know if
 
 Purpose of this function:  
 Assume you downloaded some games/manga of a certain series from DLsite and all files are properly named.  
-eg: `[Date][RJXXXXXX][maker] title`  
+eg: `(同人マンガ)[120301][RJ092175][ガラクタが丘] reversible-リバーシブル-`  
 By using DLsite_Info_Scraper.R to get all product info of that series, you can now find out what games/manga you've missed from the list.  
 You MUST use the csv generated from `DLsite_Info_Scraper.R` to run this program!!!
