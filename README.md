@@ -8,7 +8,7 @@ Store product infos (category/release date/maker/title/url) from a keyword searc
 How To Use This Program:  
 1. Get the base url from DLsite keyword search (`show_type` must be 1), with just the number of page left  
 
-eg: https://www.dlsite.com/maniax/fsr/=/language/jp/sex_category%5B0%5D/male/keyword/陽向葵ゅか/order%5B0%5D/release_d/per_page/30/show_type/1/page/  
+eg: https://www.dlsite.com/maniax/circle/profile/=/language/jp/sex_category%5B0%5D/male/keyword_maker_name/RG17643/order%5B0%5D/release_d/per_page/30/show_type/1/hd/1/page/
 
 2. Look for total number of pages by yourself, so you don't go over that  
 
