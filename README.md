@@ -25,8 +25,8 @@ PS: One issue of my code is it could not handle UNICODE properly. Let me know if
 
 Purpose of this function:  
 To look up the products missed from the full product list.  
-You MUST use the csv generated from "DLsite_Info_Scraper.R" to run this program!!!  
+You MUST use the csv generated from `DLsite_Info_Scraper.R` to run this program!!!  
 
 Assume you downloaded some games/manga of a certain series from DLsite and all files are properly named.  
-eg: "[Date][RJXXXXXX][maker] title"  
+eg: `[Date][RJXXXXXX][maker] title`  
 By using DLsite_Info_Scraper.R to get all product info of that series, you can now find out what games/manga you've missed from the list.
